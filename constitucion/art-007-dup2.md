@@ -1,0 +1,1 @@
+Artículo 7.- A partir de la sanción de esta Constitución, los actuales magistrados en ejercicio componentes del Superior Tribunal de Justicia, gozarán de las garantías, derechos y prerrogativas establecidas en esta Constitución.

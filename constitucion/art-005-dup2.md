@@ -1,0 +1,2 @@
+Artículo 5.- El Superior Tribunal de Justicia procederá a la inmediata integración del Tribunal Electoral de la Provincia el que, hasta tanto se dicte la Ley Electoral, deberá regirse y aplicar, en lo que sea pertinente, las disposiciones del Decreto Nacional número 4.034/57.
+Dicho Tribunal procederá a confeccionar el Registro Cívico de la Provincia y dentro de los ciento veinte días de la fecha, el padrón municipal de extranjeros.

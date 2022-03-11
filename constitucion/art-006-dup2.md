@@ -1,0 +1,1 @@
+Artículo 6.- La Legislatura sancionará a la brevedad posible y preferentemente las leyes: Orgánica Municipal; Orgánica del Poder Judicial; Juicio Político; Organización de Ministerios; Tribunal de Cuentas; de Contabilidad; de Educación; Reglamentaria de los Derechos Sociales; Estatuto del Empleado Público; del Docente y Bosques y Tierras Públicas.

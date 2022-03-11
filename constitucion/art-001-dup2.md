@@ -1,0 +1,2 @@
+Artículo 1.- El Interventor Federal en la Provincia o el funcionario a cuyo cargo esté la misma, convocará dentro de los noventa días de sancionada la presente Constitución, a elecciones generales en todo el territorio de la Provincia, para constituir los Poderes Ejecutivo y Legislativo, y organismos municipales.
+Las elecciones no podrán realizarse antes de los noventa días ni después de los ciento veinte días de transcurrido el plazo establecido para la convocatoria.

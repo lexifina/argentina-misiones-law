@@ -1,0 +1,2 @@
+Artículo 8.- Hasta tanto se constituya la Legislatura, el Jurado de Enjuiciamiento funcionará sin los representantes de la misma y serán de aplicación en la Provincia las disposiciones de las leyes nacionales en la materia.
+Mientras no se dicte la ley que reglamente el trámite de los recursos de habeas corpus y de amparo, los Tribunales y jueces arbitrarán el procedimiento aplicable, ajustándose estrictamente a las bases de celeridad y amplitud consagrados por esta Constitución.

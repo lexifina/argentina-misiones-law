@@ -1,0 +1,5 @@
+Artículo 3.- Las elecciones para integración de los Poderes Ejecutivo y Legislativo se realizarán con arreglo a las siguientes normas:
+1) el gobernador y vicegobernador de la Provincia serán elegidos de conformidad a lo determinado en el artículo 107 de esta Constitución;
+2) los diputados a la primera Cámara de Representantes serán elegidos por el sistema de representación proporcional y las bancas se distribuirán conforme al empleado para las elecciones del veintiocho de Julio de mil novecientos cincuenta y siete.
+El número de miembros que compondrá la primera Cámara de Representantes de la Provincia, será de treinta y dos;
+3) el sorteo a que se refiere el artículo 84 de esta Constitución, se realizará separadamente entre los diputados pertenecientes a los distintos sectores políticos que integren la Cámara y si los sectores no fueren pares en su composición, se sorteará previamente al diputado que ocupará la situación de impar y así, los que resultaren impares, como los que invistan representaciones singulares, serán sorteados en conjunto.
