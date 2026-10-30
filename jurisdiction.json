@@ -1,0 +1,11 @@
+{
+  "path": "ar-n",
+  "code": "AR-N",
+  "name": "Misiones",
+  "level": "province",
+  "parent": "ar",
+  "repo": "https://github.com/lexifina/argentina-misiones-law",
+  "build": "built: constitution, codes and laws (1 norms, 1 versions) from https://www.diputadosmisiones.gov.ar/nuevo/documentos",
+  "language": "es",
+  "sources": 1
+}

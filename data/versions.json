@@ -1,0 +1,19 @@
+{
+ "country": "AR-N",
+ "acts": [
+  {
+   "slug": "constitucion",
+   "short": "Constitución",
+   "title": "Constitución de la Provincia de Misiones",
+   "url": "https://www.diputadosmisiones.gov.ar/nuevo/documentos",
+   "versions": [
+    {
+     "from": "2022-03-11",
+     "units": 192,
+     "source_url": "https://www.diputadosmisiones.gov.ar/nuevo/archivos/2-%20CONSTITUCION%20%20PROVINCIAL.pdf",
+     "sha256": "cfb43965e2f1a7b79c5b113546fa8d74de6105d5267c6f42d9fbdd2c73367da5"
+    }
+   ]
+  }
+ ]
+}
